@@ -47,3 +47,9 @@ To run the project locally, follow these steps:
     ```sh
     flutter run
     ```
+
+## Download
+You can download the latest version of the app from the link below:
+
+[[Download app-release.apk](https://github.com/senanurincekara/Flutter_TicTacToeGame/download/app-release.apk)](https://github.com/senanurincekara/Flutter_TicTacToeGame/tree/main/downloadAPK)
+
